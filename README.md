@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="center">Hi! My name is Ahmad and I'm a Developer, from FAST-NUCES</h2>
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://muhammadahmadsaaim.vercel.app/_next/image?url=%2Fimages%2Fu1.jpg&w=1920&q=75" />
 
 ###
 
