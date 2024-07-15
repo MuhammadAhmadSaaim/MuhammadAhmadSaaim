@@ -50,7 +50,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
 </div>
 
 ###
@@ -70,7 +69,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/MuhammadAhmadSaaim/MuhammadAhmadSaaim/output/snake.svg" alt="Snake animation" />
 
 ###
