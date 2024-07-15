@@ -68,3 +68,6 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+###
