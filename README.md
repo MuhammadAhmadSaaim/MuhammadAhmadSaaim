@@ -9,9 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://muhammadahmadsaaim.vercel.app/_next/image?url=%2Fimages%2Fu1.jpg&w=1920&q=75"  />
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
